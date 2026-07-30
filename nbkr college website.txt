@@ -1,0 +1,108 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NBKR<! Institute of Science & Technology</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #00509e;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+            font-weight: bold;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 800px;
+            display: block;
+            margin: auto;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #003366;
+        }
+
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>NBKR Institute of Science & Technology</h1>
+    <p>Vidyanagar, Nellore, Andhra Pradesh</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Courses</a>
+    <a href="#">Admissions</a>
+    <a href="#">Contact</a>
+</nav>
+
+<div class="container">
+
+    <img src="https://images.shiksha.com/mediadata/images/1547644143phpeKLx67.jpeg"
+
+    <h2>About NBKRIST</h2>
+    <p>
+        NBKR Institute of Science & Technology (NBKRIST) is one of the
+        leading engineering colleges in Andhra Pradesh. It offers
+        undergraduate and postgraduate programs in Engineering,
+        Management, and Technology with modern laboratories,
+        experienced faculty, and excellent campus facilities.
+    </p>
+
+    <h2>Courses Offered</h2>
+    <ul>
+        <li>Computer Science and Engineering</li>
+        <li>Artificial Intelligence & Machine Learning</li>
+        <li>Electronics & Communication Engineering</li>
+        <li>Electrical & Electronics Engineering</li>
+        <li>Mechanical Engineering</li>
+        <li>Civil Engineering</li>
+        <li>MBA</li>
+        <li>M.Tech</li>
+    </ul>
+
+</div>
+
+<footer>
+    <p>&copy; 2026 NBKR Institute of Science & Technology. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
